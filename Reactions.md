@@ -1,6 +1,19 @@
 # Class Reading Reactions
 
-## January 24th
+
+## Response2 : January 31st
+**Useful and Useless IoT devices**
+
+##### Useful IoT Device: Whistle[https://www.whistle.com/]
+
+Whistle is about ensuring that pets can be found. Every once a while, you'll see in the neighboring electric polls the signs for a missing pet. Whistle prevents such tragedies by adding a GPS tracker, and a monitoring of the pet's health status to the collar.
+
+
+##### Useless IoT Device: Hello Barbie[http://hellobarbiefaq.mattel.com/about-hello-barbie/]
+
+The idea is quite novel: connect up a children's toy to be more interactive to the things a child says, and be more responsive to the changing world by continually updating the speeches. In practice, the lines can be summed up in a megabyte of content, which makes one question the need for the internet connection. Not only has this particular barbie's speeches stopped being updated since 2015, it has also been subject to hacking by which this toy turns into a bug, through which anyone could listen in on a child's room.
+
+## Response 1: January 24th
 **Linked, Chapter 1-3**
 
 Having expected a thorough dive into what computer networks are and how they function, I was frankly surprised by the overall non-technical focus of this book from the first three chapters. In fact, the ideas present here, ranging from spread of Christianity to forming of society through random graph clustering, seemed more like a general overview of all things that are interconnected. 
